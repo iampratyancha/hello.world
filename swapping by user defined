@@ -10,7 +10,7 @@ public class SwapNumbers {
         System.out.print("Enter the second number: ");
         int num2 = input.nextInt();
 
-        // Swapping logic
+       
         int temp = num1;
         num1 = num2;
         num2 = temp;

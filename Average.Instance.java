@@ -1,4 +1,4 @@
-public class Avg_Instant { 
+public class Avg_Instance { 
     double num1;
     double num2;
     double num3;
@@ -11,7 +11,7 @@ public class Avg_Instant {
     }
     public static void main(String args[])
     {
-        Avg_Instant avg1= new Avg_Instant();
+        Avg_Instance avg1= new Avg_Instance();
         avg1.num1=97;
         avg1.num2=47;
         avg1.num3=67;
